@@ -2,7 +2,7 @@
 
 # Data Science Portfolio 
                                                     
-## Python:
+## Python(Programming):
 
 [Restaurant Reviews Sentiment Analysis (Machine Learning/NLP)](https://github.com/Mathew-Gao/Restaurant-Review-sentiment-analysis--NLP-machine-learning) 
 
@@ -29,7 +29,7 @@
 
 ![](https://github.com/Mathew-Gao/Mathew-Gao/blob/main/images/Optimization.png)
 
-## R:
+## R(Programming):
 
 [Predicting Electricity Demand in Victoria](https://github.com/Mathew-Gao/Victoria-Electricity-Demand-Prediction)
 
@@ -55,7 +55,7 @@
 
 ![](https://github.com/Mathew-Gao/Mathew-Gao/blob/main/images/temperature2.png)
 
-## SQL:
+## SQL(Programming):
 
 [End-to-End Data Warehousing Process Using SQL](https://github.com/Mathew-Gao/Design-Create-Database-using-SQL)
 
