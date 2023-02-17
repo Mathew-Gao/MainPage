@@ -41,7 +41,7 @@
 
 * Identified limitations and opportunities for improvement, such as incorporating additional data sources and refining the modeling process, to provide insights for future research and development in the field of energy demand forecasting.
 
-![](https://github.com/Mathew-Gao/Mathew-Gao/blob/main/images/Demand%20prediction.png)
+![](https://github.com/Mathew-Gao/Mathew-Gao/blob/main/images/Demand%20Prediction.jpeg)
 
 [Australian Temperature Modelling & Prediction](https://github.com/Mathew-Gao/Australian-Temperature-Prediction-Global-Warming)
 
