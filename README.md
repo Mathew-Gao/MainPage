@@ -13,7 +13,7 @@
 
 * Successfully combined the text classification and sentiment analysis models to produce an aspect-based sentiment analysis table, which can be used to inform restaurant owners about areas of improvement in food, service, ambience, and price.
 
-![A](images/prediction.png)
+![](images/prediction.png)
 
 
 [Inspection schduling optimization](https://github.com/Mathew-Gao/Inspection-Schedule-Optimization)
@@ -26,7 +26,7 @@
 
 * Applied advanced analytical techniques to solve a complex optimization problem, taking into account multiple constraints and using large amounts of data to achieve optimal solutions.
 
-![](https://github.com/Mathew-Gao/Mathew-Gao/blob/main/images/Optimization.png)
+![](images/Optimization.png)
 
 # R(Programming):
 
@@ -40,7 +40,7 @@
 
 * Identified limitations and opportunities for improvement, such as incorporating additional data sources and refining the modeling process, to provide insights for future research and development in the field of energy demand forecasting.
 
-![](https://github.com/Mathew-Gao/Mathew-Gao/blob/main/images/Demand%20Prediction.jpeg)
+![](images/Demand%20Prediction.jpeg)
 
 [Australian Temperature Modelling & Prediction](https://github.com/Mathew-Gao/Australian-Temperature-Prediction-Global-Warming)
 
@@ -52,7 +52,7 @@
 
 * Showcased technical skills in data analysis and modeling and provides valuable insights into climate change patterns.
 
-![](https://github.com/Mathew-Gao/Mathew-Gao/blob/main/images/temperature2.png)
+![](images/temperature2.png)
 
 # SQL(Programming):
 
@@ -60,4 +60,4 @@
 
 * This repository presents a comprehensive report that demonstrates the end-to-end process of data warehousing for the Melbourne Business School settings, starting from the creation of tables to the development of a relational database, designing of star schemas, and the creation of user cases. The report also includes SQL code examples to illustrate and support the various stages of the data warehousing process.
 
-![](https://github.com/Mathew-Gao/Mathew-Gao/blob/main/images/Database%20Schema.png)
+![](images/Database%20Schema.png)
