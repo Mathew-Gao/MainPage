@@ -14,7 +14,7 @@
 
 * Successfully combined the text classification and sentiment analysis models to produce an aspect-based sentiment analysis table, which can be used to inform restaurant owners about areas of improvement in food, service, ambience, and price.
 
-![](Mathew-Gao/blob/main/images/prediction.png)
+![](images/prediction.png)
 
 
 [Inspection schduling optimization](https://github.com/Mathew-Gao/Inspection-Schedule-Optimization)
