@@ -5,7 +5,7 @@
 
 [Restaurant Reviews Sentiment Analysis (Machine Learning/NLP)](https://github.com/Mathew-Gao/Restaurant-Review-sentiment-analysis--NLP-machine-learning) 
 
-* Successfully analyzed 5500 restaurant reviews using natural language processing techniques, including TF-IDF, text classification, and sentiment analysis.
+* Successfully analyzed restaurant reviews using natural language processing techniques, including TF-IDF, text classification, and sentiment analysis.
 
 * Employed a range of machine learning models, including Naïve Bayes, Logistic, Random Forest, XGBoost, and SVC, using a mixed cross-validated grid search and cross-validated halving grid search and cross-validated random grid search to achieve high accuracy, macro average f1-score, and weighted average f1-score for text classification and sentiment analysis.
 
