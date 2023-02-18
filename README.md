@@ -3,7 +3,7 @@
                                                     
 ## Python:
 
-[Restaurant Reviews Sentiment Analysis (Machine Learning/NLP)](https://github.com/Mathew-Gao/Restaurant-Review-sentiment-analysis--NLP-machine-learning) 
+[Restaurant Reviews Sentiment Analysis (Machine Learning/NLP)](https://github.com/Mathew-Gao/Restaurant-Review-sentiment-analysis--NLP-machine-learning)  
 
 * Successfully analyzed 5500 restaurant reviews using natural language processing techniques, including TF-IDF, text classification, and sentiment analysis.
 
